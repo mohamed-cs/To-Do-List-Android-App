@@ -10,6 +10,5 @@
 <span><img src="https://github.com/mohamed-cs/To-Do-List-Android-App/blob/main/To%20do%20photo/To%20do%20photo/Screenshot_2021-09-16-14-50-28-43_0464f2d782233d9066a65b27de74f052.jpg" width="300px" height="550px" /></span>
 <span><img src="https://github.com/mohamed-cs/To-Do-List-Android-App/blob/main/To%20do%20photo/To%20do%20photo/Screenshot_2021-09-16-14-50-55-37_0464f2d782233d9066a65b27de74f052.jpg" width="300px" height="550px"/></span>
 <span><img src="https://github.com/mohamed-cs/To-Do-List-Android-App/blob/main/To%20do%20photo/To%20do%20photo/Screenshot_2021-09-16-14-51-03-45_0464f2d782233d9066a65b27de74f052.jpg" width="300px" height="550px"/></span>
-<span><img src="https://github.com/mohamed-cs/To-Do-List-Android-App/blob/main/To%20do%20photo/To%20do%20photo/Screenshot_2021-09-16-14-51-09-22_0464f2d782233d9066a65b27de74f052.jpg" width="300px" height="550px"/></span>
 <span><img src="https://github.com/mohamed-cs/To-Do-List-Android-App/blob/main/To%20do%20photo/To%20do%20photo/Screenshot_2021-09-16-14-51-11-75_0464f2d782233d9066a65b27de74f052.jpg" width="300px" height="550px"/></span>
 <span><img src="https://github.com/mohamed-cs/To-Do-List-Android-App/blob/main/To%20do%20photo/To%20do%20photo/Screenshot_2021-09-16-14-51-15-05_0464f2d782233d9066a65b27de74f052.jpg" width="300px" height="550px"/></span>
